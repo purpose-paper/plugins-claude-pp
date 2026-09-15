@@ -1,0 +1,20 @@
+{
+  "name": "purpose-paper-plugins",
+  "owner": {
+    "name": "Purpose Paper"
+  },
+  "description": "Plugins internos da Purpose Paper — metodologias e processos do time (produto, dados, criação) empacotados para instalar direto no Claude.",
+  "plugins": [
+    {
+      "name": "metodo-estudo-performance-produto-pp",
+      "source": "./plugins/metodo-estudo-performance-produto-pp",
+      "displayName": "Método de Estudo de Performance de Produto",
+      "description": "Cria o estudo completo de um produto Purpose Paper (dashboard de dados + estudo narrativo em Atos do Conselho) num único HTML, no padrão do Baby Journal 5 Anos. Inclui a identidade visual oficial da marca.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Purpose Paper"
+      },
+      "category": "produto"
+    }
+  ]
+}
