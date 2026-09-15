@@ -15,6 +15,17 @@
         "name": "Purpose Paper"
       },
       "category": "produto"
+    },
+    {
+      "name": "identidade-visual-pp",
+      "source": "./plugins/identidade-visual-pp",
+      "displayName": "Identidade Visual Purpose Paper",
+      "description": "Identidade visual oficial da Purpose Paper (paleta, tipografia, logo, ícones e layouts prontos) para aplicar em qualquer peça HTML do time.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Purpose Paper"
+      },
+      "category": "criação"
     }
   ]
 }
