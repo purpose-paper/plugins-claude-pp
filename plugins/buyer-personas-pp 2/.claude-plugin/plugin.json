@@ -1,0 +1,9 @@
+{
+  "name": "buyer-personas-pp",
+  "version": "0.1.0",
+  "description": "Metodologia e hipóteses de Buyer Persona da Purpose Paper (JTBD, 5 Rings of Buying Insight, as três personas hipótese) mais a análise quantitativa anterior que originou essas hipóteses.",
+  "author": {
+    "name": "Purpose Paper"
+  },
+  "keywords": ["buyer-persona", "jtbd", "purpose-paper", "marketing", "growth"]
+}
