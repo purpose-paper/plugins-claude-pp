@@ -17,15 +17,15 @@
       "category": "produto"
     },
     {
-      "name": "identidade-visual-pp",
-      "source": "./plugins/identidade-visual-pp",
-      "displayName": "Identidade Visual Purpose Paper",
-      "description": "Identidade visual oficial da Purpose Paper (paleta, tipografia, logo, ícones e layouts prontos) para aplicar em qualquer peça HTML do time.",
+      "name": "buyer-personas-pp",
+      "source": "./plugins/buyer-personas-pp",
+      "displayName": "Buyer Personas Purpose Paper",
+      "description": "Metodologia e hipóteses de Buyer Persona da Purpose Paper (JTBD, 5 Rings of Buying Insight, as três personas hipótese) mais a análise quantitativa anterior que originou essas hipóteses.",
       "version": "0.1.0",
       "author": {
         "name": "Purpose Paper"
       },
-      "category": "criação"
+      "category": "marketing"
     }
   ]
 }
